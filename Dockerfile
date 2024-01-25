@@ -12,4 +12,5 @@ RUN install-php-extensions \
     tokenizer \
     xml \
     curl \
-    json
+    json \
+    pcntl
